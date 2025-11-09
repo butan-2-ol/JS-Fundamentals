@@ -1,3 +1,6 @@
+#!/usr/bin/node
+
+
 // get the first argument
 const firstArg = process.argv[2];
 

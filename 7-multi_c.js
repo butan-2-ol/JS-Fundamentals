@@ -1,4 +1,4 @@
-
+#!/usr/bin/node
 
 const x = Number(process.argv[2]);
 
